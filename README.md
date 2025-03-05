@@ -5,10 +5,10 @@ Im Alexei Cichon
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...A about me website
-- 🌱 I’m currently learning ...How to code with Html/Css/Python/Java
+- 🔭 I’m currently working on ...A Pokemon Battle Simulation project, using C programming
+- 🌱 I’m currently learning ...How to code with Html/Css/Python/Java/C
 - 👯 I’m looking to collaborate on ...Not much at the moment
-- 🤔 I’m looking for help with ...Learning how to broden my horizons with coding and learn new skills
+- 🤔 I’m looking for help with ...Learning how to broaden my horizons with coding and learning new skills
 - 💬 Ask me about ...Anything I'll attempt my best to answer
 - 📫 How to reach me: ...By use of email, alexeicichon@gmail.com  
 - 😄 Pronouns: ...He/Him
